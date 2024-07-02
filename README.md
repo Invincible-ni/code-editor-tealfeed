@@ -1,4 +1,4 @@
-##Code-Editor
+## Code-Editor
 
 - Prism JS - A library for doing syntax highlighting
     - https://prismjs.com/ (vanilla javascript library for doing syntax highlighting)
